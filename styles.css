@@ -1,0 +1,64 @@
+.container-fluid.background {
+    /*background-image: url('/img/pattern3.jpg');*/
+    padding: 0px;
+}
+
+.navbar {
+    background-color: #212121;
+}
+
+a.navbar-brand {
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 30px;
+    color: white;
+}
+
+a:hover.navbar-brand {
+    color: #2ACFFF;
+}
+
+a.nav-link {
+    padding: 16px 16px;
+    color: white;
+}
+
+a:hover.nav-link {
+    color: #2ACFFF;
+}
+
+.nickname {
+    padding: 16px 16px;
+    color: #2ACFFF;
+}
+
+.main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.btn.btn-primary {
+    background-color: #212121;
+    border-color: #212121;
+}
+
+a.card-title {
+    color: #2ACFFF;
+}
+
+.container-fluid.text-center {
+    padding: 0px;
+}
+
+.container-fluid.video {
+    margin: 0px;
+    background-color: #161616;
+}
+
+.container-fluid.footer {
+    background-color: #212121;
+}
+
+.footer {
+    color: white;
+    padding: 20px 0px;
+}
